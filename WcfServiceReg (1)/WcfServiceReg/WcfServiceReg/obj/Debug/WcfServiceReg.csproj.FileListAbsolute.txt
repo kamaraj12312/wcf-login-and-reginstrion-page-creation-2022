@@ -1,0 +1,165 @@
+D:\sample programs\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.csproj.AssemblyReference.cache
+D:\sample programs\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.csproj.CoreCompileInputs.cache
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\WcfServiceReg.dll.config
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\WcfServiceReg.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\WcfServiceReg.pdb
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\EntityFramework.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\EntityFramework.SqlServer.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Bcl.HashCode.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Logging.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Options.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Primitives.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Buffers.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Collections.Immutable.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.ComponentModel.Annotations.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Diagnostics.DiagnosticSource.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Memory.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Numerics.Vectors.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Threading.Tasks.Extensions.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\EntityFramework.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\EntityFramework.SqlServer.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Bcl.HashCode.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Logging.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Options.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Primitives.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Buffers.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Collections.Immutable.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Diagnostics.DiagnosticSource.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Memory.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Numerics.Vectors.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\bin\System.Threading.Tasks.Extensions.xml
+D:\sample programs\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.csproj.CopyComplete
+D:\sample programs\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.dll
+D:\sample programs\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.pdb
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\WcfServiceReg.dll.config
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\WcfServiceReg.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\WcfServiceReg.pdb
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\EntityFramework.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\EntityFramework.SqlServer.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Bcl.HashCode.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Logging.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Options.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Primitives.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Buffers.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Collections.Immutable.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.ComponentModel.Annotations.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Diagnostics.DiagnosticSource.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Memory.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Numerics.Vectors.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Threading.Tasks.Extensions.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\EntityFramework.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\EntityFramework.SqlServer.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Bcl.HashCode.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Logging.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Options.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Primitives.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Buffers.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Collections.Immutable.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Diagnostics.DiagnosticSource.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Memory.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Numerics.Vectors.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\bin\System.Threading.Tasks.Extensions.xml
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.csproj.AssemblyReference.cache
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.csproj.CoreCompileInputs.cache
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.csproj.CopyComplete
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.dll
+D:\New folder (2)\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.pdb
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\WcfServiceReg.dll.config
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\WcfServiceReg.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\WcfServiceReg.pdb
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\EntityFramework.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\EntityFramework.SqlServer.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Logging.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Options.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Buffers.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Collections.Immutable.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.ComponentModel.Annotations.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Memory.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Numerics.Vectors.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\EntityFramework.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\EntityFramework.SqlServer.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Logging.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Options.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Buffers.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Collections.Immutable.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Memory.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Numerics.Vectors.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.csproj.AssemblyReference.cache
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.csproj.CoreCompileInputs.cache
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.csproj.CopyComplete
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.dll
+C:\Users\bms0179\Downloads\WcfServiceReg (1)\WcfServiceReg\WcfServiceReg\obj\Debug\WcfServiceReg.pdb
